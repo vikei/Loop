@@ -33,9 +33,9 @@
 - [Javascript ‘Classes’ and Prototypal Inheritance]()
 
 ## How NodeJS Works
-- [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 - [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY) -> [Getting Started with Node.js - Full Tutorial](https://www.youtube.com/watch?v=gG3pytAY2MY)
-- [You don’t know Node](https://medium.com/@samerbuna/you-dont-know-node-6515a658a1ed)
+- [You Don't Know Node](https://medium.com/@samerbuna/you-dont-know-node-6515a658a1ed)
+- [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 - [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 
 ## NodeJS Common
