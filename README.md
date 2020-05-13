@@ -60,6 +60,10 @@
 - [Web Api](https://developer.mozilla.org/en-US/docs/Web/API)
 - [JavaScript Info](https://javascript.info/)
 - [NodeJS](https://nodejs.org/en/docs/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+
+## Postgres
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
 ## Links
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
