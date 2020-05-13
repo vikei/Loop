@@ -32,19 +32,15 @@
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
 - [Javascript ‘Classes’ and Prototypal Inheritance]()
 
-## NodeJs
+## How NodeJS Works
 - [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 - [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY) -> [Getting Started with Node.js - Full Tutorial](https://www.youtube.com/watch?v=gG3pytAY2MY)
 - [You don’t know Node](https://medium.com/@samerbuna/you-dont-know-node-6515a658a1ed)
 - [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 
-- [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
-- [Node.js Child Processes: Everything you need to know](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
-- [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
-- [Вы наверное шутите, мистер Дал, или почему Node.js — это венец эволюции веб-серверов](https://habr.com/post/108241/)
-- [Node.js Child Processes: Everything you need to know](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
-- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
-- [Advanced](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/)
+## NodeJS Common
+- [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices)
+- [NodeJS Architecture Best Practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/)
 - [The Best Node.js & Microservices Articles we Ever Wrote](https://blog.risingstack.com/top-nodejs-microservices-articles-risingstack/#top11mostreadpostsontherisingstackblog)
 
 ## Code
@@ -62,7 +58,7 @@
 
 ## Docs
 - [Web Api](https://developer.mozilla.org/en-US/docs/Web/API)
-- [Javascript Info](https://javascript.info/)
+- [JavaScript Info](https://javascript.info/)
 - [NodeJS](https://nodejs.org/en/docs/)
 
 ## Links
