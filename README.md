@@ -37,6 +37,7 @@
 - [You Don't Know Node](https://medium.com/@samerbuna/you-dont-know-node-6515a658a1ed)
 - [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 - [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+- [The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
 
 ## NodeJS Common
 - [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices)
