@@ -72,6 +72,7 @@
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [Git Tips](https://github.com/Imangazaliev/git-tips)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
 
 ### Job
 - [The Best Resources to Ace your Full Stack JavaScript Interview](https://medium.freecodecamp.org/5-top-sites-for-javascript-interview-preparation-71b48e9a6c8a)
