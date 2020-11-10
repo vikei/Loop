@@ -53,6 +53,7 @@
 - [SOLID](https://samueleresca.net/solid-principles-using-typescript/)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
+# Clean Architecture
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU)
 - [CLEAN ARCHITECTURE FOR THE REST OF US](https://pusher.com/tutorials/clean-architecture-introduction)
