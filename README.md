@@ -53,6 +53,10 @@
 - [SOLID](https://samueleresca.net/solid-principles-using-typescript/)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU)
+- [CLEAN ARCHITECTURE FOR THE REST OF US](https://pusher.com/tutorials/clean-architecture-introduction)
+
 ## TypeScript
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [Modern Typescript with Examples Cheat Sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet)
